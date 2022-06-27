@@ -1,0 +1,10 @@
+1.Difference between visibility:hidden and display:none
+The visibility: “hidden”; property is used to specify whether an element is visible or not in a web document but the hidden elements take up space in the web document. 
+
+2.Difference between inline and block level elements
+Block Elements occupy the full width irrespective of their sufficiency. Inline elements don't start in a new line. Block elements always start in a line. Inline elements allow other inline elements to sit behind.
+
+3.What are selectors?
+CSS selectors are used to "find" (or select) the HTML elements you want to style.
+
+4.The outline-style property is used to set the line style for the outline. The outline-color property is used to set the color of the outline.

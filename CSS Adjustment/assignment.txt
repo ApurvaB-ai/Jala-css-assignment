@@ -1,0 +1,1 @@
+What is the Difference between Java and JavaScript? Java is an OOP programming language, and it helps to create applications that function in a virtual machine or browser, while JavaScript is an OOP scripting language. Also, the JavaScript code runs on a browser only.
